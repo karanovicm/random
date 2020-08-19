@@ -6,3 +6,4 @@
 # da vidimo
 # where code
 # board id
+# nzm vise
