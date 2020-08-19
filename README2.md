@@ -6,4 +6,4 @@
 # da vidimo
 # where code
 # board id
-# nzm vise
+# 1 girhub enabled
