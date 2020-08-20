@@ -5,5 +5,5 @@
 # da vidimo
 # where code
 # board id
-# 1 girhub enabled samo za 512
+# 1 github enabled samo za 512 - radilo i pre toga verovatno
 # branch with hashcode in title
